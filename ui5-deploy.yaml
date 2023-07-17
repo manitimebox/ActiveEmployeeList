@@ -14,10 +14,10 @@ builder:
       afterTask: generateCachebusterInfo
       configuration:
         target:
-          destination: GD1
-          url: http://gd1
+          destination: SD1_100
+          url: http://sd1
         app:
           name: Z_ACTIVEEMPLIST
           description: Active Employee List
           package: zoffboarding
-          transport: GD1K900535
+          transport: SD1K902665
